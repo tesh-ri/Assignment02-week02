@@ -32,7 +32,7 @@ profile(@Req() req){
    
 }
 @UseGuards(JwtAuthGuard)
-@Get('/profile')
+@Get('/dashboard')
 dashboard(@Req() req){
     // console.log(req)
     return{
