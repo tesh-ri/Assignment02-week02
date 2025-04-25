@@ -81,7 +81,7 @@ I used **GitHub integration** with Render for seamless deployment. Here's a summ
 6. **Deployed automatically** – now updates are deployed on each push to the main branch.
 
 ### 🌐 View the live application:
-> [[Your Render App URL here](https://assignment01-week02.onrender.com/ping)]
+> [[Your Render App URL here](https://assignment02-week02.onrender.com)]
 
 ## Resources
 
